@@ -26,9 +26,9 @@ export default function Last() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
         <div className="rounded-md shadow-sm border dark:border-slate-50">
           <div className="pt-3 pb-3 flex flex-row items-center pl-3">
-            <span className="rounded-full bg-slate-700 border border-slate-700 py-1 px-1"></span><h1 className="font-semibold pl-3 text-[14px]"><Link href="https://wlkp.adhyamitra.com">WLKP</Link></h1>
+            <span className="rounded-full bg-slate-700 border border-slate-700 py-1 px-1"></span><h1 className="font-semibold pl-3 text-[14px]"><Link href="https://wlkp.adhyamitra.com">KKP</Link></h1>
           </div>
-          <p className="text-[12px] pl-3 pb-3">Pengembangan Aplikasi WLKP Kementrian Ketenagakerjaan</p>
+          <p className="text-[12px] pl-3 pb-3">Pengembangan Aplikasi KKP Kementrian Kelautan dan Perikanan</p>
         </div>
         <div className="rounded-md shadow-sm border dark:border-slate-50">
           <div className="pt-3 pb-3 flex flex-row items-center pl-3">
