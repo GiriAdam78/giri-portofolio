@@ -84,6 +84,26 @@ export default function Projects() {
             </a>
           </div>
         </div>
+        <div className="rounded-md hover:shadow-md border border-slate-200 cursor-pointer">
+          <img src="images/kodepos_api.png" alt="List Gudang" />
+          <div className="py-2 px-2">
+            <h3 className="text-[16px] font-semibold font-body capitalize">
+              Kodepos Api 
+            </h3>
+            <p className="text-[12px] font-normal font-body truncate">
+              Pembuatan List Kodepos Api Kota Tangerang  Menggunakan Express API & Neon DB
+            </p>
+          </div>
+
+          <div className="py-3 px-2">
+            <a
+              href="https://kodepos-ashy.vercel.app/"
+              className="text-[12px] font-body font-medium border border-slate-400 py-2 px-1 rounded-md hover:bg-slate-500 hover:text-white"
+            >
+              Visit Website{" "}
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   );
